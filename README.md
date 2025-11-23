@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7005a097-7f71-49fa-ab10-6f6aab336b95" />
+
 # 🚀 Docker Hands-On Labs Repository
 
 ### **By . Sandeep Kumar Sharma**
